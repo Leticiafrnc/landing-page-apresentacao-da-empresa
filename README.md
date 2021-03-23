@@ -1,4 +1,4 @@
-O Projeto_06 foi desenvolvido com o  objetivo de aprender mais sobre Bootstrap. Foi utilizado HTML5,CSS3 e Bootstrap. 
+A Landing page Apresentação da Empresa foi desenvolvida com o  objetivo de aprender mais sobre Bootstrap. Foi utilizado HTML5,CSS3 e Bootstrap. 
 
 ![Screenshot](Projeto06.gif)
 
